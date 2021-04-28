@@ -1,8 +1,9 @@
-# CameraMovement
+# CameraMovementAndZoomingInUnityFromTouchscreen
 Scripts for moving and zooming the camera in Unity using the touch screen 
 
-Version: 0.1
 IDE: Unity
+Version: 0.1
+Language: C#
 
 **Parameters:**
 _speed - speed of camera movement/zooming;
